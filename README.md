@@ -1,8 +1,10 @@
-# UM_datamadness
+# UM datamadness
 
-Part of assignment at UM for the lecture: Data Analysis.
+Part of the assignment at UM for the lecture: Data Analysis.
 
 **dataset source:** https://www.kaggle.com/datasnaek/youtube-new
+
+**submitted video for the assignment:** https://www.facebook.com/105351921118099/videos/150310216341349/
 
 ## Usage
 
